@@ -1,1 +1,1 @@
-# gokulcynosure.github.io
+permalink: /404.html
